@@ -1,10 +1,11 @@
 # Manatee-Builds  
+
 ```  
   /\/\   __ _ _ __   __ _| |_ ___  ___ 
  /    \ / _` | '_ \ / _` | __/ _ \/ _ \
 / /\/\ \ (_| | | | | (_| | ||  __/  __/
 \/    \/\__,_|_| |_|\__,_|\__\___|\___|
-									 SPECTRAL SYNTHESIZER
+                   SPECTRAL SYNTHESIZER
 ```
 SPECTRAL SYNTHESIZER  
   
