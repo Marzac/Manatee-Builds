@@ -26,7 +26,7 @@ Other uses are prohibited, please contact us directly regarding software license
 # Report a bug  
 Manatee firmware is a complex and large clock work construction involving many software modules and user settings.  
 
-Despite all the efforts involved to provide our users with a the highest software quality possible, use cases and setups for this machine are virtually endless ... consequently each and every situation could not be tested. Therefore we are grateful for any bug report submitted by our customers: it will result in improving the instrument experience & usability for every one. 
+Despite all the efforts involved to provide our users with a the highest software quality possible, use cases and setups for this machine are virtually endless ... consequently each and every situation could not be tested. Therefore we are grateful for any bug report submitted by our users: it will result in improving the instrument experience & usability for every one. 
 
 ## Rules to report a bug  
 
@@ -38,7 +38,7 @@ To avoid time lost sorting and understanding a specific problem, please read and
 * Find out the minimal configuration + set of actions needed to trigger the issue  
 * Open a Issue entry and write a short tutorial about how to experience the bug  
 * If supporting media would help understanding the situation, record audio, video or MIDI examples and link them. It is extra work but very appreciated.  
-* Be kind with the other members of the community (and myself!)  
+* Be kind to the members of the community (and myself!)  
 
 Thank you in advance for all your contributions.  
 
