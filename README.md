@@ -24,3 +24,10 @@ Other uses are prohibited, please contact us directly regarding software license
 # Change Log  
 
 # Report a bug  
+Manatee firmware is a complex and large clock work construct involving many modules and user settable options.  
+Despite all the efforts involved to provide our customers with a the highest software quality possible, use cases and setups for this machine are endless and every situation could not be tested.  
+Therefore we are grateful for any bug report submitted by our customers: it will result in improving the instrument experience & usability for every one. 
+
+## Rules to report a bug  
+
+
