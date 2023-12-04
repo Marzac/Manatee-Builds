@@ -26,9 +26,7 @@ Other uses are prohibited, please contact us directly regarding software license
 # Report a bug  
 Manatee firmware is a complex and large clock work construction involving many software modules and user settings.  
 
-Despite all the efforts involved to provide our users with a the highest software quality possible, use cases and setups for this machine are virtually endless ... consequently each and every situation could not be tested.  
-
-Therefore we are grateful for any bug report submitted by our customers: it will result in improving the instrument experience & usability for every one. 
+Despite all the efforts involved to provide our users with a the highest software quality possible, use cases and setups for this machine are virtually endless ... consequently each and every situation could not be tested. Therefore we are grateful for any bug report submitted by our customers: it will result in improving the instrument experience & usability for every one. 
 
 ## Rules to report a bug  
 
