@@ -37,7 +37,7 @@ To avoid time lost sorting and understanding a specific problem, please read and
 * Verify the problem has not been reported already  
 * Find out the minimal configuration + set of actions needed to trigger the issue  
 * Open a Issue entry and write a short tutorial about how to experience the bug  
-* If supporting media would help understanding the situation, record &amp; audio, video or MIDI examples and link them in the report  
+* If supporting media would help understanding the situation, record audio, video or MIDI examples and link them. It is extra work but very appreciated.  
 * Be kind with the other members of the community (and myself!)  
 
 Thank you in advance for all your contributions.  
